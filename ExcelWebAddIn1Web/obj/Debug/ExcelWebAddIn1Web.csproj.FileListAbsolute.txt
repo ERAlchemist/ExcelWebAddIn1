@@ -1,0 +1,9 @@
+C:\Users\EALBERTUS\source\repos\ExcelWebAddIn1\ExcelWebAddIn1Web\bin\ExcelWebAddIn1Web.dll.config
+C:\Users\EALBERTUS\source\repos\ExcelWebAddIn1\ExcelWebAddIn1Web\bin\ExcelWebAddIn1Web.dll
+C:\Users\EALBERTUS\source\repos\ExcelWebAddIn1\ExcelWebAddIn1Web\bin\ExcelWebAddIn1Web.pdb
+C:\Users\EALBERTUS\source\repos\ExcelWebAddIn1\ExcelWebAddIn1Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EALBERTUS\source\repos\ExcelWebAddIn1\ExcelWebAddIn1Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EALBERTUS\source\repos\ExcelWebAddIn1\ExcelWebAddIn1Web\obj\Debug\ExcelWebAddIn1Web.csprojResolveAssemblyReference.cache
+C:\Users\EALBERTUS\source\repos\ExcelWebAddIn1\ExcelWebAddIn1Web\obj\Debug\ExcelWebAddIn1Web.csproj.CoreCompileInputs.cache
+C:\Users\EALBERTUS\source\repos\ExcelWebAddIn1\ExcelWebAddIn1Web\obj\Debug\ExcelWebAddIn1Web.dll
+C:\Users\EALBERTUS\source\repos\ExcelWebAddIn1\ExcelWebAddIn1Web\obj\Debug\ExcelWebAddIn1Web.pdb

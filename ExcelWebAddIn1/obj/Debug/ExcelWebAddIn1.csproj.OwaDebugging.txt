@@ -1,0 +1,7 @@
+False
+1c2e0019-4a0f-4120-96a5-150fd90f65c4f35fc95d-698e-4d8e-ac7c-ce6518143ac0
+{e363f479-b5f2-499f-89a7-0005d2968cce}{5dc0faf8-b3e0-4e14-a92f-572e99898993}
+{e40ee4db-f0d8-4ddd-9c3e-9e03523e756c}
+1.0.0.0
+ExcelWebAddIn1
+_layouts/15/
